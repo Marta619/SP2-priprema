@@ -1,6 +1,7 @@
 
 
 public class Primer {
+<<<<<<< HEAD
 	//
 	public int oddOrPos(int[] x) {
 		int count = 0;
@@ -10,6 +11,12 @@ public class Primer {
 =======
 		for (int i = 0; i < x.length; i++) {
 <<<<<<< HEAD
+=======
+	
+	public int oddOrPos(int[] x) {
+		int count = 0;
+		for (int i = 0; i < x.length + 1; i++) {
+>>>>>>> a7ffd194f1a730549a752c1fc7e80ff778625616
 			if (x[i] % 2 == 1 && x[i] > 0) {
 =======
 			if (x[i] % 2 == 1 || x[i] > 0) {
