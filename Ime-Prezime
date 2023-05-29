@@ -1,0 +1,36 @@
+[33mcommit 10931d60a2bb4b5902529898a783d77572386d5e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c21585c f569680
+Author: Your Name <you@example.com>
+Date:   Sun May 28 23:39:33 2023 +0200
+
+    Merge conflict fix
+
+[33mcommit c21585c0a5bdf39add49d7ad4b95bcfe69b1ea24[m
+Author: Your Name <you@example.com>
+Date:   Sun May 28 23:36:53 2023 +0200
+
+    Obrisan kom, promenjen +1
+
+[33mcommit f5696802afae7a57037b603bf7bb94089543ced7[m[33m ([m[1;31morigin/Ime-Prezime[m[33m, [m[1;32mIme-Prezime[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Sun May 28 23:32:47 2023 +0200
+
+    Podesen x.length
+
+[33mcommit 130d871158ba8824c9caa46df5599a546690df1f[m
+Author: Your Name <you@example.com>
+Date:   Sun May 28 23:30:36 2023 +0200
+
+    Obrisan komentar
+
+[33mcommit b12398212f2c22ecef4f2c8d525a643232634e9a[m[33m ([m[1;32mIme-Prezime-div[m[33m)[m
+Author: LukaVrankovic <lukavrankovic97@gmail.com>
+Date:   Sun May 21 20:10:27 2023 +0200
+
+    Visak direktorijum
+
+[33mcommit bbeb5a39076a25bffa7c4af61efb3d866d1d10fb[m
+Author: LukaVrankovic <lukavrankovic97@gmail.com>
+Date:   Sun May 21 17:38:14 2023 +0200
+
+    Add Primer.java
